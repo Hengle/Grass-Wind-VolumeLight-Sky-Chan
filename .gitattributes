@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.js linguist-language=Unity
+*.css linguist-language=Unity
+*.html linguist-language=Unity

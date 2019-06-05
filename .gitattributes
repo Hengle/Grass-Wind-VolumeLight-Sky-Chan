@@ -1,3 +1,7 @@
-*.js linguist-language=C#
-*.css linguist-language=C#
-*.html linguist-language=C#
+*.asset binary
+*.unity binary
+*.prefab binary
+*.meta binary
+*/CommunicatorObjects/* binary
+*/communicator_objects/* binary
+*.md text
